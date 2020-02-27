@@ -11,7 +11,7 @@ If I can't look at Fortune 500, I looked at the components of the S&P 500 index.
 Yahoo Finance no longer supports api. Fortune 500 has no api. The web page is filled with junk and useless ads
 that makes trivial parsing more difficult.
 
-##Reference
+## Reference
 
 let baseUrl = "https://www.slickcharts.com/sp500";
 
