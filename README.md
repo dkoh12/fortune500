@@ -19,8 +19,13 @@ pip install -r requirements.txt
 
 ## Reference
 
+https://qlik.fortune.com/
+
 Fortune 500 data
 https://hifld-geoplatform.opendata.arcgis.com/datasets/fortune-500-corporate-headquarters/data
+
+ArcGIS REST API
+https://developers.arcgis.com/rest/services-reference/query-feature-service-layer-.htm
 
 let baseUrl = "https://www.slickcharts.com/sp500";
 
