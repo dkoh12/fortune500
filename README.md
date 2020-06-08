@@ -19,10 +19,19 @@ pip install -r requirements.txt
 
 ## Reference
 
+Fortune 500 data
+https://hifld-geoplatform.opendata.arcgis.com/datasets/fortune-500-corporate-headquarters/data
+
 let baseUrl = "https://www.slickcharts.com/sp500";
 
 let baseUrl = "https://www.suredividend.com/sp-500-stocks/";
 
+
+Gov data
+https://www.data.gov/
+
+HIFLD data
+https://hifld-geoplatform.opendata.arcgis.com/
 
 Trading Economics
 https://tradingeconomics.com/
